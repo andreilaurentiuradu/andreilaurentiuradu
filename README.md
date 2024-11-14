@@ -17,7 +17,7 @@
   - The implementation of a client-server application that allows you to manage messages: https://github.com/andreilaurentiuradu/Client-Server-APP
   - A memory allocator implementation using mmap/sbrk: https://github.com/andreilaurentiuradu/allocater
   - A mini LIBC  implementation: https://github.com/andreilaurentiuradu/libc_library
-  - https://github.com/andreilaurentiuradu/QuadTree
+  - Image compressor/decompressor for PPM format using a quaternary tree: https://github.com/andreilaurentiuradu/QuadTree
     
 - Racket
   - https://github.com/andreilaurentiuradu/suffix-tree
