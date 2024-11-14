@@ -1,4 +1,5 @@
 <!--
+
 **andreilaurentiuradu/andreilaurentiuradu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## About me
@@ -31,7 +32,7 @@
   - https://github.com/andreilaurentiuradu/green-wave (Axes Hackathon)
     
 - Javascript
-  - https://github.com/andreilaurentiuradu/just_save_us
+  - https://github.com/andreilaurentiuradu/just_save_us (PoliHack Hackathon)
 
 - Matlab
   - https://github.com/andreilaurentiuradu/ImageCompressor-MnistHandwrittenDigitsRecognition
@@ -47,5 +48,10 @@
 - https://github.com/andreilaurentiuradu/F1_Sensors
 - https://github.com/andreilaurentiuradu/Lists-Queues-Stacks
 - https://github.com/andreilaurentiuradu/BitsCalculator-Dictionary-TextHighlighter
+- https://github.com/andreilaurentiuradu/tema_Haskell
+- https://github.com/andreilaurentiuradu/tema2_PA
+- https://github.com/andreilaurentiuradu/laburi_haskell
+- https://github.com/andreilaurentiuradu/tema1_pa
+- https://github.com/andreilaurentiuradu/laburi_PA
 
    
