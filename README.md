@@ -15,8 +15,8 @@
   - https://github.com/andreilaurentiuradu/router
   - https://github.com/andreilaurentiuradu/HTTP-CLIENT
   - https://github.com/andreilaurentiuradu/Client-Server-APP
-  - https://github.com/andreilaurentiuradu/allocater
-  - https://github.com/andreilaurentiuradu/libc_library
+  - A memory allocator implementation using mmap/sbrk: https://github.com/andreilaurentiuradu/allocater
+  - A mini LIBC  implementation: https://github.com/andreilaurentiuradu/libc_library
   - https://github.com/andreilaurentiuradu/QuadTree
     
 - Racket
