@@ -20,24 +20,24 @@
   - Image compressor/decompressor for PPM format using a quaternary tree: https://github.com/andreilaurentiuradu/QuadTree
     
 - Racket
-  - https://github.com/andreilaurentiuradu/suffix-tree
+  - Suffix-tree implementation: https://github.com/andreilaurentiuradu/suffix-tree
  
 - Java
-  - https://github.com/andreilaurentiuradu/IMDB
+  - Developed a Java-based IMDb simulation: https://github.com/andreilaurentiuradu/IMDB
      
 - Python
-  - https://github.com/andreilaurentiuradu/festival-chatbot (Zenko AI Hackathon)
-  - https://github.com/andreilaurentiuradu/virtual-financial-assistant (EESTEC x BCR AI Hackathon Winner)
-  - https://github.com/andreilaurentiuradu/recycleApp (LSAC Bucharest x ING Hubs Hackathon Winner)
-  - https://github.com/andreilaurentiuradu/green-wave (Axes Hackathon)
+  - Chatbot for answering questions about a festival: https://github.com/andreilaurentiuradu/festival-chatbot (Zenko AI Hackathon)
+  - App which performs operations from a bank account using speech recognition: https://github.com/andreilaurentiuradu/virtual-financial-assistant (EESTEC x BCR AI Hackathon Winner)
+  - App for material detection and nearest recycling area: https://github.com/andreilaurentiuradu/recycleApp (LSAC Bucharest x ING Hubs Hackathon Winner)
+  - App for making suggestions for an action, based on air purity, connected to Google Calendar: https://github.com/andreilaurentiuradu/green-wave (Axes Hackathon)
     
 - Javascript
-  - https://github.com/andreilaurentiuradu/just_save_us (PoliHack Hackathon)
+  - Educational Quiz Game: https://github.com/andreilaurentiuradu/just_save_us (PoliHack Hackathon)
 
 - Matlab
-  - https://github.com/andreilaurentiuradu/ImageCompressor-MnistHandwrittenDigitsRecognition
-  - https://github.com/andreilaurentiuradu/NeuralNetwork
-  - https://github.com/andreilaurentiuradu/LinearRegression
+  - Handwritten Digits Recognition algorithm using covariance matrix and Image Compressor using SVD https://github.com/andreilaurentiuradu/ImageCompressor-MnistHandwrittenDigitsRecognition
+  - Housing Value Forecasting Project, a house price prediction model through Linear Regression, leveraging a dataset of residential properties: https://github.com/andreilaurentiuradu/NeuralNetwork
+  - https://github.com/andreilaurentiuradu/Regressions
 
 ## Some problems and lab exercises
 - https://github.com/andreilaurentiuradu/GuardianGame-BigComplexNumbers-CryptingDecrypting
