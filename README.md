@@ -13,8 +13,8 @@
 
 - C
   - Router data plane implementation: https://github.com/andreilaurentiuradu/router
-  - https://github.com/andreilaurentiuradu/HTTP-CLIENT
-  - https://github.com/andreilaurentiuradu/Client-Server-APP
+  - Web client that can communicate with an REST API: https://github.com/andreilaurentiuradu/HTTP-CLIENT
+  - The implementation of a client-server application that allows you to manage messages: https://github.com/andreilaurentiuradu/Client-Server-APP
   - A memory allocator implementation using mmap/sbrk: https://github.com/andreilaurentiuradu/allocater
   - A mini LIBC  implementation: https://github.com/andreilaurentiuradu/libc_library
   - https://github.com/andreilaurentiuradu/QuadTree
