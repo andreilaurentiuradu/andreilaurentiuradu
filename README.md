@@ -25,7 +25,10 @@
   - https://github.com/andreilaurentiuradu/IMDB
      
 - Python
-  - https://github.com/andreilaurentiuradu/festival-chatbot
+  - https://github.com/andreilaurentiuradu/festival-chatbot (Zenko AI Hackathon)
+  - https://github.com/andreilaurentiuradu/virtual-financial-assistant (EESTEC x BCR AI Hackathon Winner)
+  - https://github.com/andreilaurentiuradu/recycleApp (LSAC Bucharest x ING Hubs Hackathon Winner)
+  - https://github.com/andreilaurentiuradu/green-wave (Axes Hackathon)
     
 - Javascript
   - https://github.com/andreilaurentiuradu/just_save_us
