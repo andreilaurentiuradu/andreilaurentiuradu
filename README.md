@@ -12,7 +12,7 @@
 ## Personal repositories & projects
 
 - C
-  - https://github.com/andreilaurentiuradu/router
+  - Router data plane implementation: https://github.com/andreilaurentiuradu/router
   - https://github.com/andreilaurentiuradu/HTTP-CLIENT
   - https://github.com/andreilaurentiuradu/Client-Server-APP
   - A memory allocator implementation using mmap/sbrk: https://github.com/andreilaurentiuradu/allocater
