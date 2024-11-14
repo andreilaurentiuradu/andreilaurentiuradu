@@ -9,3 +9,40 @@
 - Skilled in C++, C, Java, Python with a keen interest in software development and AI<br>
 
 ## Personal repositories & projects
+
+- C
+  - https://github.com/andreilaurentiuradu/router
+  - https://github.com/andreilaurentiuradu/HTTP-CLIENT
+  - https://github.com/andreilaurentiuradu/Client-Server-APP
+  - https://github.com/andreilaurentiuradu/allocater
+  - https://github.com/andreilaurentiuradu/libc_library
+  - https://github.com/andreilaurentiuradu/QuadTree
+    
+- Racket
+  - https://github.com/andreilaurentiuradu/suffix-tree
+ 
+- Java
+  - https://github.com/andreilaurentiuradu/IMDB
+     
+- Python
+  - https://github.com/andreilaurentiuradu/festival-chatbot
+    
+- Javascript
+  - https://github.com/andreilaurentiuradu/just_save_us
+
+- Matlab
+  - https://github.com/andreilaurentiuradu/ImageCompressor-MnistHandwrittenDigitsRecognition
+  - https://github.com/andreilaurentiuradu/NeuralNetwork
+  - https://github.com/andreilaurentiuradu/LinearRegression
+
+## Some problems and lab exercises
+- https://github.com/andreilaurentiuradu/GuardianGame-BigComplexNumbers-CryptingDecrypting
+- https://github.com/andreilaurentiuradu/CoffeMachine
+- https://github.com/andreilaurentiuradu/FindingBestWay
+- https://github.com/andreilaurentiuradu/CryptingStrings-SortingProcesses-BitsOperations
+- https://github.com/andreilaurentiuradu/RobotWayOutOfLabyrinth
+- https://github.com/andreilaurentiuradu/F1_Sensors
+- https://github.com/andreilaurentiuradu/Lists-Queues-Stacks
+- https://github.com/andreilaurentiuradu/BitsCalculator-Dictionary-TextHighlighter
+
+   
