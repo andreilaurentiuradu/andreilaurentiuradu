@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--Curious and Ambitious CSE Student
--Passionate about exploring cutting-edge technologies and solving real-world problems 
--Dedicated to continuous learning, self-improvement, and making an impact through innovative solutions
--Skilled in C++, C, Java, Python, C++ with a keen interest in software development and AI
+Curious and Ambitious CSE Student<br>
+Passionate about exploring cutting-edge technologies and solving real-world problems<br> 
+Dedicated to continuous learning, self-improvement, and making an impact through innovative solutions<br>
+Skilled in C++, C, Java, Python, C++ with a keen interest in software development and AI<br>
